@@ -4,3 +4,7 @@
 *.ptx
 *.cubin
 *.fatbin
+__pycache__
+备份表
+工作表
+明细表
